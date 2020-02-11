@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399364182036",
+    "firebase_url": "https://chatonlineflutter-3bcc6.firebaseio.com",
+    "project_id": "chatonlineflutter-3bcc6",
+    "storage_bucket": "chatonlineflutter-3bcc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399364182036:android:48bf38732f8c3d1e",
+        "android_client_info": {
+          "package_name": "br.com.erasmo.app_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399364182036-c9jf2dq1n8tq9s0m78tpf9cbrsock9df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.erasmo.app_chat",
+            "certificate_hash": "2527e3f25f0dde7bc24d9f190d399169782b03e7"
+          }
+        },
+        {
+          "client_id": "399364182036-6qkfln7bijm56c28jp53nehjasoho8ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_BujswglfYQQUupE6nuBAeKp2XGzBTUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399364182036-6qkfln7bijm56c28jp53nehjasoho8ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
